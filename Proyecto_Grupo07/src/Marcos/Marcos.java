@@ -1,4 +1,4 @@
-package marcos;
+package Marcos;
 
 public class Marcos {
 
