@@ -6,6 +6,7 @@ public class Christian {
 		
 		saludar();
 		hobbies();
+		System.out.println("Comida favorita hamburguesa");
 
 	}
 	
