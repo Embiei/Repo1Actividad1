@@ -18,6 +18,8 @@ public class Christian {
 		System.out.println("Billar");
 		System.out.println("Fotografia");
 		System.out.println("Montaña");
+		
+		System.out.println("Me encantan los caracoles");
 	}
 
 }
