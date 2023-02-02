@@ -4,6 +4,7 @@ public class Marcos {
 
 	public static void main(String[] args) {
 		nombre();
+		System.out.println("Me gustan las piruletas");
 	}
 	
 	public static void nombre() {
