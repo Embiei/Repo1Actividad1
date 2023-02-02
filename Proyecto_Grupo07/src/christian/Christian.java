@@ -6,7 +6,7 @@ public class Christian {
 		
 		saludar();
 		hobbies();
-
+		System.out.println("Me encantan los esparragos");
 	}
 	
 	public static void saludar() {
@@ -19,7 +19,7 @@ public class Christian {
 		System.out.println("Fotografia");
 		System.out.println("Montaña");
 		
-		System.out.println("Me encantan los caracoles");
+		
 	}
 
 }
